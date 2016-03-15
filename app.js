@@ -36,7 +36,7 @@ blackhole.src = './images/blackhole.jpg';
 var stair = new Image();
 stair.src = './images/stair.png';
 
-var level = 3;
+var level = 1;
   window.onload = function(){
     ctx.drawImage(background1, 0, 0);
     ctx.drawImage(poring, poringPosX, poringPosY);
